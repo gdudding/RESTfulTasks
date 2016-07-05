@@ -1,0 +1,94 @@
+c:\users\judgex\documents\visual studio 2015\Projects\RESTfulTasks\RESTfulTasks\bin\roslyn\csc.exe
+c:\users\judgex\documents\visual studio 2015\Projects\RESTfulTasks\RESTfulTasks\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\judgex\documents\visual studio 2015\Projects\RESTfulTasks\RESTfulTasks\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\judgex\documents\visual studio 2015\Projects\RESTfulTasks\RESTfulTasks\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\judgex\documents\visual studio 2015\Projects\RESTfulTasks\RESTfulTasks\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\judgex\documents\visual studio 2015\Projects\RESTfulTasks\RESTfulTasks\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\judgex\documents\visual studio 2015\Projects\RESTfulTasks\RESTfulTasks\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\judgex\documents\visual studio 2015\Projects\RESTfulTasks\RESTfulTasks\bin\roslyn\System.Collections.Immutable.dll
+c:\users\judgex\documents\visual studio 2015\Projects\RESTfulTasks\RESTfulTasks\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\judgex\documents\visual studio 2015\Projects\RESTfulTasks\RESTfulTasks\bin\roslyn\vbc.exe
+c:\users\judgex\documents\visual studio 2015\Projects\RESTfulTasks\RESTfulTasks\bin\roslyn\VBCSCompiler.exe
+c:\users\judgex\documents\visual studio 2015\Projects\RESTfulTasks\RESTfulTasks\bin\roslyn\VBCSCompiler.exe.config
+c:\users\judgex\documents\visual studio 2015\Projects\RESTfulTasks\RESTfulTasks\bin\RESTfulTasks.dll.config
+c:\users\judgex\documents\visual studio 2015\Projects\RESTfulTasks\RESTfulTasks\bin\RESTfulTasks.dll
+c:\users\judgex\documents\visual studio 2015\Projects\RESTfulTasks\RESTfulTasks\bin\RESTfulTasks.pdb
+c:\users\judgex\documents\visual studio 2015\Projects\RESTfulTasks\RESTfulTasks\bin\EntityFramework.dll
+c:\users\judgex\documents\visual studio 2015\Projects\RESTfulTasks\RESTfulTasks\bin\EntityFramework.SqlServer.dll
+c:\users\judgex\documents\visual studio 2015\Projects\RESTfulTasks\RESTfulTasks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\judgex\documents\visual studio 2015\Projects\RESTfulTasks\RESTfulTasks\bin\Microsoft.Web.Infrastructure.dll
+c:\users\judgex\documents\visual studio 2015\Projects\RESTfulTasks\RESTfulTasks\bin\Newtonsoft.Json.dll
+c:\users\judgex\documents\visual studio 2015\Projects\RESTfulTasks\RESTfulTasks\bin\System.Net.Http.Formatting.dll
+c:\users\judgex\documents\visual studio 2015\Projects\RESTfulTasks\RESTfulTasks\bin\System.Web.Helpers.dll
+c:\users\judgex\documents\visual studio 2015\Projects\RESTfulTasks\RESTfulTasks\bin\System.Web.Http.dll
+c:\users\judgex\documents\visual studio 2015\Projects\RESTfulTasks\RESTfulTasks\bin\System.Web.Http.WebHost.dll
+c:\users\judgex\documents\visual studio 2015\Projects\RESTfulTasks\RESTfulTasks\bin\System.Web.Mvc.dll
+c:\users\judgex\documents\visual studio 2015\Projects\RESTfulTasks\RESTfulTasks\bin\System.Web.Razor.dll
+c:\users\judgex\documents\visual studio 2015\Projects\RESTfulTasks\RESTfulTasks\bin\System.Web.WebPages.Deployment.dll
+c:\users\judgex\documents\visual studio 2015\Projects\RESTfulTasks\RESTfulTasks\bin\System.Web.WebPages.dll
+c:\users\judgex\documents\visual studio 2015\Projects\RESTfulTasks\RESTfulTasks\bin\System.Web.WebPages.Razor.dll
+c:\users\judgex\documents\visual studio 2015\Projects\RESTfulTasks\RESTfulTasks\bin\EntityFramework.xml
+c:\users\judgex\documents\visual studio 2015\Projects\RESTfulTasks\RESTfulTasks\bin\EntityFramework.SqlServer.xml
+c:\users\judgex\documents\visual studio 2015\Projects\RESTfulTasks\RESTfulTasks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\judgex\documents\visual studio 2015\Projects\RESTfulTasks\RESTfulTasks\bin\Newtonsoft.Json.xml
+c:\users\judgex\documents\visual studio 2015\Projects\RESTfulTasks\RESTfulTasks\bin\System.Net.Http.Formatting.xml
+c:\users\judgex\documents\visual studio 2015\Projects\RESTfulTasks\RESTfulTasks\bin\System.Web.Helpers.xml
+c:\users\judgex\documents\visual studio 2015\Projects\RESTfulTasks\RESTfulTasks\bin\System.Web.Http.xml
+c:\users\judgex\documents\visual studio 2015\Projects\RESTfulTasks\RESTfulTasks\bin\System.Web.Http.WebHost.xml
+c:\users\judgex\documents\visual studio 2015\Projects\RESTfulTasks\RESTfulTasks\bin\System.Web.Mvc.xml
+c:\users\judgex\documents\visual studio 2015\Projects\RESTfulTasks\RESTfulTasks\bin\System.Web.Razor.xml
+c:\users\judgex\documents\visual studio 2015\Projects\RESTfulTasks\RESTfulTasks\bin\System.Web.WebPages.xml
+c:\users\judgex\documents\visual studio 2015\Projects\RESTfulTasks\RESTfulTasks\bin\System.Web.WebPages.Deployment.xml
+c:\users\judgex\documents\visual studio 2015\Projects\RESTfulTasks\RESTfulTasks\bin\System.Web.WebPages.Razor.xml
+c:\users\judgex\documents\visual studio 2015\Projects\RESTfulTasks\RESTfulTasks\obj\Debug\RESTfulTasks.dll
+c:\users\judgex\documents\visual studio 2015\Projects\RESTfulTasks\RESTfulTasks\obj\Debug\RESTfulTasks.pdb
+c:\users\judgex\documents\visual studio 2015\Projects\RESTfulTasks\RESTfulTasks\obj\Debug\RESTfulTasks.Migrations.Initial.resources
+c:\users\judgex\documents\visual studio 2015\Projects\RESTfulTasks\RESTfulTasks\obj\Debug\RESTfulTasksAPI.csproj.GenerateResource.Cache
+C:\Users\JudgeX\Documents\Visual Studio 2015\Projects\RESTfulTasks\RESTfulTasks\obj\Debug\RESTfulTasksAPI.csprojResolveAssemblyReference.cache
+C:\Testing\RESTfulTasks-master\RESTfulTasks\bin\roslyn\csc.exe
+C:\Testing\RESTfulTasks-master\RESTfulTasks\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Testing\RESTfulTasks-master\RESTfulTasks\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Testing\RESTfulTasks-master\RESTfulTasks\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Testing\RESTfulTasks-master\RESTfulTasks\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Testing\RESTfulTasks-master\RESTfulTasks\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Testing\RESTfulTasks-master\RESTfulTasks\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Testing\RESTfulTasks-master\RESTfulTasks\bin\roslyn\System.Collections.Immutable.dll
+C:\Testing\RESTfulTasks-master\RESTfulTasks\bin\roslyn\System.Reflection.Metadata.dll
+C:\Testing\RESTfulTasks-master\RESTfulTasks\bin\roslyn\vbc.exe
+C:\Testing\RESTfulTasks-master\RESTfulTasks\bin\roslyn\VBCSCompiler.exe
+C:\Testing\RESTfulTasks-master\RESTfulTasks\bin\roslyn\VBCSCompiler.exe.config
+C:\Testing\RESTfulTasks-master\RESTfulTasks\bin\RESTfulTasks.dll.config
+C:\Testing\RESTfulTasks-master\RESTfulTasks\bin\RESTfulTasks.dll
+C:\Testing\RESTfulTasks-master\RESTfulTasks\bin\RESTfulTasks.pdb
+C:\Testing\RESTfulTasks-master\RESTfulTasks\bin\EntityFramework.dll
+C:\Testing\RESTfulTasks-master\RESTfulTasks\bin\EntityFramework.SqlServer.dll
+C:\Testing\RESTfulTasks-master\RESTfulTasks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Testing\RESTfulTasks-master\RESTfulTasks\bin\Microsoft.Web.Infrastructure.dll
+C:\Testing\RESTfulTasks-master\RESTfulTasks\bin\Newtonsoft.Json.dll
+C:\Testing\RESTfulTasks-master\RESTfulTasks\bin\System.Net.Http.Formatting.dll
+C:\Testing\RESTfulTasks-master\RESTfulTasks\bin\System.Web.Helpers.dll
+C:\Testing\RESTfulTasks-master\RESTfulTasks\bin\System.Web.Http.dll
+C:\Testing\RESTfulTasks-master\RESTfulTasks\bin\System.Web.Http.WebHost.dll
+C:\Testing\RESTfulTasks-master\RESTfulTasks\bin\System.Web.Mvc.dll
+C:\Testing\RESTfulTasks-master\RESTfulTasks\bin\System.Web.Razor.dll
+C:\Testing\RESTfulTasks-master\RESTfulTasks\bin\System.Web.WebPages.Deployment.dll
+C:\Testing\RESTfulTasks-master\RESTfulTasks\bin\System.Web.WebPages.dll
+C:\Testing\RESTfulTasks-master\RESTfulTasks\bin\System.Web.WebPages.Razor.dll
+C:\Testing\RESTfulTasks-master\RESTfulTasks\bin\EntityFramework.xml
+C:\Testing\RESTfulTasks-master\RESTfulTasks\bin\EntityFramework.SqlServer.xml
+C:\Testing\RESTfulTasks-master\RESTfulTasks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Testing\RESTfulTasks-master\RESTfulTasks\bin\Newtonsoft.Json.xml
+C:\Testing\RESTfulTasks-master\RESTfulTasks\bin\System.Net.Http.Formatting.xml
+C:\Testing\RESTfulTasks-master\RESTfulTasks\bin\System.Web.Helpers.xml
+C:\Testing\RESTfulTasks-master\RESTfulTasks\bin\System.Web.Http.xml
+C:\Testing\RESTfulTasks-master\RESTfulTasks\bin\System.Web.Http.WebHost.xml
+C:\Testing\RESTfulTasks-master\RESTfulTasks\bin\System.Web.Mvc.xml
+C:\Testing\RESTfulTasks-master\RESTfulTasks\bin\System.Web.Razor.xml
+C:\Testing\RESTfulTasks-master\RESTfulTasks\bin\System.Web.WebPages.xml
+C:\Testing\RESTfulTasks-master\RESTfulTasks\bin\System.Web.WebPages.Deployment.xml
+C:\Testing\RESTfulTasks-master\RESTfulTasks\bin\System.Web.WebPages.Razor.xml
+C:\Testing\RESTfulTasks-master\RESTfulTasks\obj\Debug\RESTfulTasksAPI.csprojResolveAssemblyReference.cache
+C:\Testing\RESTfulTasks-master\RESTfulTasks\obj\Debug\RESTfulTasks.Migrations.Initial.resources
+C:\Testing\RESTfulTasks-master\RESTfulTasks\obj\Debug\RESTfulTasksAPI.csproj.GenerateResource.Cache
+C:\Testing\RESTfulTasks-master\RESTfulTasks\obj\Debug\RESTfulTasks.dll
+C:\Testing\RESTfulTasks-master\RESTfulTasks\obj\Debug\RESTfulTasks.pdb
